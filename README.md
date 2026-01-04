@@ -1,3 +1,5 @@
+SNU project implementing an AI medical assistant for hearing loss using retrieval-augmented generation.
+
 # 🏥 청각 장애 전문 의료 상담 시스템
 
 이비인후과 청각 장애 전문 AI 의료 상담 시스템입니다. RAG(Retrieval-Augmented Generation) 기술을 활용하여 의학 문헌을 기반으로 정확한 상담을 제공합니다.
