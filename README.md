@@ -2,7 +2,7 @@
 
 SNU Project – AI Medical Assistant for Hearing Loss
 
-이비인후과 청각 장애 전문 상담 시스템입니다. RAG(Retrieval-Augmented Generation) 기술을 활용하여 의학 문헌 기반 상담을 제공합니다.
+이비인후과 청각 장애 전문 상담 시스템입니다. RAG 기술을 활용하여 의학 문헌 기반 상담을 제공합니다.
 
 ## ✨ 주요 기능
 
